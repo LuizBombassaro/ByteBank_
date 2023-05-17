@@ -1,0 +1,15 @@
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\bin\Debug\net6.0\ByteBank_.exe
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\bin\Debug\net6.0\ByteBank_.deps.json
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\bin\Debug\net6.0\ByteBank_.runtimeconfig.json
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\bin\Debug\net6.0\ByteBank_.dll
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\bin\Debug\net6.0\ByteBank_.pdb
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.csproj.AssemblyReference.cache
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.AssemblyInfoInputs.cache
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.AssemblyInfo.cs
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.csproj.CoreCompileInputs.cache
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.dll
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\refint\ByteBank_.dll
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.pdb
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ByteBank_.genruntimeconfig.cache
+D:\Users\Rafael\source\repos\C#\ByteBank_\ByteBank_\obj\Debug\net6.0\ref\ByteBank_.dll
